@@ -772,9 +772,18 @@ section.lazy-placeholder:after {
 }
 .cid-rYlH3BODQS .mbr-section-subtitle {
   text-align: center;
+  color: #ffffff;
 }
 .cid-rYlH3BODQS H2 {
   text-align: center;
+  color: #ffffff;
+}
+.cid-rYlH3BODQS .card-title {
+  color: #ffffff;
+}
+.cid-rYlH3BODQS .mbr-text,
+.cid-rYlH3BODQS .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rYlKTvpWfs {
   padding-top: 90px;
