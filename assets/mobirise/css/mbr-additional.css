@@ -737,7 +737,7 @@ section.lazy-placeholder:after {
 .cid-rYlH3BODQS {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/jumpfood-final-5.png");
+  background-image: url("../../../assets/images/jump-clean-background-1.jpg");
 }
 .cid-rYlH3BODQS .card-box {
   padding: 1rem 2rem 2rem;
@@ -849,7 +849,7 @@ section.lazy-placeholder:after {
   padding-top: 75px;
   padding-bottom: 75px;
   position: relative;
-  background-color: #a2bd30;
+  background-image: url("../../../assets/images/jump-clean-background-1.jpg");
 }
 .cid-rYlMZdf4M6 p {
   color: #767676;
@@ -884,10 +884,13 @@ section.lazy-placeholder:after {
   padding-right: 1rem;
 }
 .cid-rYlMZdf4M6 H4 {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rYlMZdf4M6 .panel-text {
-  color: #232323;
+  color: #ffffff;
+}
+.cid-rYlMZdf4M6 H2 {
+  color: #ffffff;
 }
 .cid-rYm18y8xDq {
   padding-top: 60px;
@@ -1143,7 +1146,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rYjCO5SMPN .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.7rem);
+    max-height: calc(98.5vh - 6.2rem);
   }
 }
 .cid-rYjCO5SMPN .collapsed button.navbar-toggler {
@@ -1300,7 +1303,7 @@ section.lazy-placeholder:after {
 .cid-rYlFrWKger {
   padding-top: 90px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/jumpfood-final-4.png");
+  background-image: url("../../../assets/images/jump-clean-background-1.jpg");
 }
 @media (max-width: 767px) {
   .cid-rYlFrWKger .content {
